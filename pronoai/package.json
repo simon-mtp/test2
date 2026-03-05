@@ -1,0 +1,6 @@
+{
+  "name": "pronoai",
+  "version": "1.0.0",
+  "description": "Générateur de pronostics IA — Football, Tennis, Basketball",
+  "engines": { "node": "18.x" }
+}
